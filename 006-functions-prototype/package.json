@@ -1,0 +1,12 @@
+{
+  "name": "006-functions-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [],
+  "author": "Mehmet Simsek",
+  "license": "ISC"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "js-functions",
+  "version": "1.0.0",
+  "description": "Javascript'de fonksiyonların kullanımı",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [],
+  "author": "Mehmet Simsek",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0"
+  }
+}

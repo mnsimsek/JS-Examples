@@ -1,0 +1,16 @@
+{
+  "name": "js-objects",
+  "version": "1.0.0",
+  "description": "Objects",
+  "main": "src/use-object.js",
+  "scripts": {
+    "test-object": "mocha test/test-object.js"
+  },
+  "keywords": [],
+  "author": "Mehmet Simsek",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0"
+  }
+}
